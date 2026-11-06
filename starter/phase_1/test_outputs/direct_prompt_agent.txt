@@ -1,0 +1,4 @@
+$ python direct_prompt_agent.py
+
+The capital of France is Paris.
+The agent answered using the general knowledge built into the gpt-4.1-mini model, with no persona, system prompt, or additional knowledge provided.

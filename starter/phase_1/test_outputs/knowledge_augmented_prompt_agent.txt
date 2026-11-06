@@ -1,0 +1,4 @@
+$ python knowledge_augmented_prompt_agent.py
+
+Dear students, knowledge-based assistant. According to the provided information, the capital of France is London, not Paris.
+The agent answered using the provided knowledge (London) rather than the LLM's inherent knowledge (Paris).

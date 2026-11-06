@@ -1,0 +1,5 @@
+$ python augmented_prompt_agent.py
+
+Dear students, the capital of France is Paris.
+Knowledge source: the agent answered from the general knowledge of the gpt-4.1-mini model, since no specific knowledge was provided.
+Persona impact: the system prompt made the agent respond as a college professor, so the answer starts with 'Dear students,' while the facts stay the same.

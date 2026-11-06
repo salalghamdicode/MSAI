@@ -1,0 +1,4 @@
+$ python rag_knowledge_prompt_agent.py
+
+What is the podcast that Clara hosts about?
+Dear students, based on the information provided, Clara's podcast called **"Crosscurrents"** explores the intersection of science, culture, and ethics. Each week, she interviews a diverse range of guests including researchers, engineers, artists, and activists, discussing topics that likely span various scientific fields and their cultural and ethical implications.
